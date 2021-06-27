@@ -30,3 +30,4 @@
 
 ## Acknowledgements
 - This project was inspired by some clasic retro games like for example "Galaga"
+- This project was created in cooperation with Kamil Łukasik (https://github.com/kamil100900)
